@@ -8,7 +8,8 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A smart code escaper plugin that converts greater than, smaller than and ampersands to html entities within pre tags.
+..,,
+
 
 == Description ==
 
@@ -48,6 +49,12 @@ Nothing to upgrade just yet!
 2. This is how it is shown on the front-end. The initial code tag is not encoded for use in Prism.
 
 == Changelog ==
+
+= 1.1.0 (2015-04-20) =
+* WordPress 4.2 compatibility check
+
+= 1.0.1 =
+* Added Smaller Icon
 
 = 1.0 =
 * Initial version
